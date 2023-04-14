@@ -1,2 +1,4 @@
 db.sqlite3
 *migrations*
+accounts/__pycache__
+mypjt/__pycache__
